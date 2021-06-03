@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Greetings of pure peace and perfect love, sent unto all the poor, scattered, little, holy flock of Jesus Christ, the Lamb of God. Behold the Lamb of God that taketh away the sins of the world.</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96338</idno><idno type="EEBO-CITATION">47683533</idno>
+  <idno type="VID">172990</idno>
+  <idno type="EEBO-PROQUEST">2248518036</idno>
+  
+            <idno type="STC">Wing W1750</idno>
+            <idno type="STC">ESTC R186479</idno>
+            <idno type="OCLC">47683533</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172990)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2660:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Greetings of pure peace and perfect love, sent unto all the poor, scattered, little, holy flock of Jesus Christ, the Lamb of God. Behold the Lamb of God that taketh away the sins of the world.</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 23: Dorothy White.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Errors in paging: p. 17, 20, and 21 numbered 16, 9, and 13 repectively.</note>
+                  <note>Imperfect: stained, and torn, with loss of text on last two pages.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">Church --  Quaker authors.</term>
+               <term type="topical_term">Jesus Christ --  Mystical body --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:172990:1"/>
+            <head>
+               <hi>Greetings of pure Peace and perfect Love, sent unto all the Poor, Scattered, Little, Holy Flock of</hi> Jesus Christ, <hi>the Lamb of God.</hi> Behold the Lamb of God that taketh away the Sins of the World.</head>
+            <p>GOD had his Church in all Ages, and throughout all Generati<g ref="char:EOLhyphen"/>o<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Holy Church, his Pure Undefiled Church, which was the Spouse, the Bride, the Lamb's Wife, which was signified by the Angel, to be without Spot, or without Blemish, or without Wrinkle, or any such thing, presented unto God the Father; they were those that came up as Sheep from the Washing, bearing Twins; these come through the Washing of <hi>Regeneration,</hi> who had passed through Judgment and Purification, and afterwards came to be cloathed in white, for they were worthy; these put on Change of Raiment, pure and white Linnen, the Cloathings of Saints; these had put off their Grave Cloathing, and left it behind, they hated the Garment spotted with the Flesh; <hi>Mark,</hi> these come to know that Saying fulfilled, <hi>Behold I create all things new:</hi> New Hearts, and new Minds, renewed in Holiness by the renewings of the Holy Ghost, which dwelt in them; as it is written, <hi>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>now you not that your Bodies are the Temples of the Holy Ghost:</hi> And that <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are made a Holy Temple unto God, a Holy Nation, a Royal Priest<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a peculiar People, zealous of Good Works; who feel a holy Zeal <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed from the holy Fire which Christ hath kindled in them more and more in Ferventness and Faithfulness, as he saith, <hi>Be faithful unto Death, and thou shalt wear a Crown of Life.</hi> Give up Gods Enemies unto Death, the Enemies of thy Soul, which thou hast in thy own Bosom, the evil Desires and Lusts, bring them to the Fire; this day all mens works shall be tryed as by Fire; an inward Fire burns continually in the Temple of God for the cleansing thereof, for the Temple of God is Holy where God must dwell in; so thou must feel the <gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ptizing with the Holy Ghost and with Fire, Baptizing down into the Death of Christ; for he saith, <hi>Oh Death! I will be thy Death.</hi> So he will bring Death into Death and Captivity, he will lead Captive that which hath Captivated the Soul of Man, while Death hath raigned from the Fall of <hi>Adam</hi> on Mankind; so Death hath raigned from <hi>Adam</hi> until <hi>Moses.</hi> So all must feel this Spiritual <hi>Moses</hi> giving forth
+<pb n="2" facs="tcp:172990:2"/>the Law in their Hearts, and pass through <hi>Moses</hi>'s House of Trembling; and <hi>Moses</hi> saith, when he looked about, or turned about, he saw the Bush on fire, and burning, and it was not consumed: So every one, when they turn about, and turn with their Faces <hi>Sion</hi> ward, and towards the ho<g ref="char:EOLhyphen"/>ly Temple of God, look within the Temple of God, turn about, turn from thy Sins and Transgressions, turn thy face <hi>Sion</hi> ward; <hi>Behold, I will kindle a Fire in</hi> Sion, <hi>and a Furnace in</hi> Jerusalem: the Bush shall burn in thy own Heart, to burn up the Corruption there, when the Law cometh forth of <hi>Sion,</hi> and the Word of the Lord from <hi>Jerusalem,</hi> the Law which is Light, the burning and shining Light, the Word of the Lord, which is as a ham<g ref="char:EOLhyphen"/>mer and a fire working in the Heart by the Word of his Grace, making of the Heart tender, broken, and a contrite Spirit; as he saith, <hi>I will take a<g ref="char:EOLhyphen"/>way their Hearts of Stone, or Stony Hearts, and give them a Heart of Flesh; I will write my Law in the Tables of their Hearts, as</hi> Moses <hi>writ the Law in the Tables of Stone:</hi> So Spiritual <hi>Moses,</hi> Christ in the Spirlt, who was prophesied of, to be like <hi>Moses,</hi> that he should come and write his Law in their Hearts, and put his Spirit in their inward parts; this is the second Covenant, the New Covenant, which God said he would make with the House of <hi>Israel,</hi> and the House of <hi>Judaea</hi> after those days, after the first Covenant, which Covenant they brake; but the second Covenant, Christ Jesus, the Lord from Heaven, the surer Word, which he gave unto them, he gave his Laws unto <hi>Jacob,</hi> and his Statutes unto <hi>Israel;</hi> the like he did not for any Nation under Heaven, as he did for his own People, which was his Inheritance, he made them his place of delight, he inhabited the inhabitable parts of the Earth; he saith, <hi>Behold the Tabernacle of God is with Men;</hi> and he walketh in the midst of the Golden Candlesticks; so there are Vessels of Gold, Vessels purified like fine Gold, Vessels of Ho<g ref="char:EOLhyphen"/>nour; in home he delights to dwell, and to fill them with his Glory, with his Majesty and Beauty; the King's Daughters are all glorious within, so he is glorifying his Work, and honouring his great Name, that every eye may see his coming and shining in this his day of his most glorious Appear<g ref="char:EOLhyphen"/>ance; and blessed is every eye that doth see this day dawned, and shining in them, the day which is sprung from on high, by which he visited us when we were sitting in Darkness, and in the Regions and Shadow of Death, when we were gone astray from the right why, and could not tell where to find any one that could shew us any good in a distressed time; then was the time of God's Love; <hi>My time,</hi> saith he, <hi>is a time of Love, wherein I visited thee with the blessed Morning of that Coelestial Day.</hi> In which Morning he broke through the Clouds of the Night of Apostacy; as it is written, <hi>At Midnight shall the Cry come, behold the Bridegroom com<g ref="char:EOLhyphen"/>eth, go ye out to meet him.</hi> So then did the Lord cause the light of his
+<pb n="3" facs="tcp:172990:2"/>glorious Gospel to break forth, and shine forth in our Hearts, he then com<g ref="char:EOLhyphen"/>manded Light to shine out of Darkdess, which then most gloriously shined into our Hearts, which gave us the Light and Knowledge of the Glory of God in the Face of Jesus Christ, when we heard and hearkened unto the Voice of the Son of God, who is the Light of the World, and the Light of Men; who saith, <hi>Out of Aegypt have I called my Son;</hi> and out of <hi>Aegyptian</hi> Darkness he came, to turn men from Darkness unto his Marvelous Light, and to gather his Sons from far, and his Daughters from the Ends of the Earth, and to turn them <hi>Sion</hi> ward: Again, as he saith, <hi>Return, O ye Backsliding Nation;</hi> and, <hi>I will heal their Backslidings, and love them freely.</hi> Therefore return, O <hi>Israel,</hi> that thou mayst be healed, for a Fountain is open for <hi>Judaea</hi> and <hi>Jerusalem,</hi> for the washing away of Sin and Unclean<g ref="char:EOLhyphen"/>ness; for he saith, he will turn Iniquity from <hi>Jacob,</hi> and Transgression from <hi>Israel,</hi> he will wash them and sprinkle them with pure water, and cleanse them by the Blood of the Covenant from all Sin; so they shall ap<g ref="char:EOLhyphen"/>pear without Sin the second time to Salvation, he shall present the Church without Sin, and without Spot unto God, the Father of our Lord Jesus Christ, who will bring them up in Perfection, who are truely Members of his Church, who are the Church in God the Father, the Pillar and Ground of Truth, the Church which is grounded upon a Rock in God the Father, builded upon Christ Jesus the Son, being rooted and grounded in him, as Christ himself saith, <hi>Thou art</hi> Peter, <hi>but upon this Rock will I build my Church, and the Gates of Hell shall not prevail against it:</hi> Not upon <hi>Peter,</hi> nor upon any man, but upon this Rock, himself being the Rock, who then spoke; therefore, <hi>Behold the Lamb of God that taketh away the Sins of the World;</hi> this being the work he came to do, who can work the work that no man ever did; as he saith, <hi>If I work the work that no man ever did, then believe me for the work's sake.</hi>
+            </p>
+            <p>And this I can truely say with many more, he hath already wrought such Works in us that no man could work, therefore we believe, and set to our Seal; he hath wrought Faith in my Heart, and so from Faith to Faith he hath brought me; I have this Faith which is the Gift of God; so it is unto all whose Eyes be opened, to see that he is the <hi>Messias,</hi> the very Christ, though the Wicked condemned him, and do still as they did, say<g ref="char:EOLhyphen"/>ing, <hi>Glorifie God,</hi> unto the blind Man, for this Man, we know he is a Sinner. They would not see they were wilfully blinded, as it is said, <hi>They had Eyes and saw not, Ears and heard not:</hi> But what said the Man that was blind unto them? <hi>What he is, I know not; but one thing I know, he hath open<g ref="char:EOLhyphen"/>ed mine Eyes.</hi> So I can say, he hath opened my Eyes, and many more can say the same; we see the Son of God is come, and he hath given us an understanding, by which we see him that is true; <hi>they in me, and I in
+<pb n="4" facs="tcp:172990:3"/>them, and I in thee;</hi> all perfected in one, all compleated in him; so the Church of God was in him, and in his Son Jesus Christ, the Pillar and Ground of Truth, Christ the Truth, the great Pillar and Foundation which the True Church was builded on, made up with Living Stones, Elect and Precious, chozen of him that was True, Living Members of Christ's Body, washed and purified by him, Living Stones, having the Life of Jesus in them; these put off their Old Cloathing, having put on the Lord Jesus Christ, and he that hath Christ, hath crucified the Flesh, these come to die to the Flesh, and to lay down the Body of Sin and Death, and to lay down that Life, as Christ laid down his Life, and knew a dying out<g ref="char:EOLhyphen"/>wardly; so all must know a dying to that Body of Sin and Death, and to take up a new Life, risen with Christ again from the dead; so he came to raise the Dead, as he raised <hi>Lazarus,</hi> and commanded him to arise out of the Grave; when he uttered his voice, the Grave could not hold the Dead which was therein; so the day is come wherein the Dead that have been in the Grave, have, and shall hear the voice of the Son of God, and they that hear shall live, and the Dead in Christ shall arise first; therefore hear, ye Dead, for the last Trumpet is sounding.</p>
+            <p>The seventh from <hi>Adam,</hi> the Lord from Heaven, who was fore-pro<g ref="char:EOLhyphen"/>phesied of, and it was said, he should come in the Power and Spirit of <hi>Elias</hi> the Prophet, and turn many Children unto the Lord, and the hearts of the Disobedient to the Wisdom of the Just, for Wisdom cryeth aloud, <hi>Return, Return, why will ye die?</hi> It is now the day of Visitation, it is now the day of Salvation, of Restoration, wherein the Lord is restoring the Crea<g ref="char:EOLhyphen"/>tion, restoring and bringing up the Church, the true Spouse, who is com<g ref="char:EOLhyphen"/>ing up out of the Wilderness leaning upon her Beloved, who is washing her and purifying her, making her to appear without Spot, or without Ble<g ref="char:EOLhyphen"/>mish, that she may shine forth to the Nations; therefore arise, O <hi>Sion,</hi> and shine, for thy Light is come, put on thy beautiful Garments, for the Glory of the Lord is arising to shine upon thee, and the Shout of a King shall be heard in the midst of thee, most gloriously shall the Trumpet of God yet sound, after all the Spots and Spotted are taken away, <hi>Behold the Lamb of God that taketh away the Sins of the World;</hi> and that that letteth, will lett until it be taken out of the way, the Stumbling Blocks must be removed, and the high Mountains must fall little; <hi>Jacob</hi> must arise, he will rebuke them all; every Mountain shall be laid low, the Lord alone shall be exal<g ref="char:EOLhyphen"/>ted in this his day and the Scepter of <hi>Sion</hi> shall sway the Nation, the little Stone cut out of the Mountain without hands, I say, without hands he will do his Work alone, he will remove every Mountain and every Hill that is exalted, he hath hitherto worked through, and cut through all the lofty Mountains and exalted Hills, he hath removed many Proud and Mighty
+<pb n="5" facs="tcp:172990:3"/>that have stood in his way; therefore he saith, <hi>Let every Valley be exalted and every Hill layed low;</hi> for the Lord alone is passing over the Mountains, and they shall become a Plain for the Lord to pass over, he hath overthrown in all Ages that which lett him, he will yet overturn that which would not have him Reign wheresoever he finds it.</p>
+            <lg>
+               <l>And the Wilderness shall blossom as a Rose,</l>
+               <l>God's Work shall prosper, though men do it oppose:</l>
+               <l>Such is the vertue of Life and Holy Zeal,</l>
+               <l>The Fountain flowing that would the Nations heal:</l>
+               <l>These are Gospel Times, we heard this glorious sound,</l>
+               <l>Worm <hi>Jacob</hi> shall arise, he shall win the Crown:</l>
+               <l>This is the day of Gospel Dispensation,</l>
+               <l>He hath revealed the Way, Power, Life, and Revelation,</l>
+               <l>And Gospel Discoveries unto us are come,</l>
+               <l>God hath made known his Power, he hath revealed his Son.</l>
+            </lg>
+            <p>God at sundry times, and after divers manners spake unto the Fathers by the Prophets, but in these last times he hath spoken to us by his own Son, whom he hath made Heir of all things, by whom he also made the World, and laid the Foundation thereof upon his Eternal Word; which Word is the upholder of all things of the Creation of God, the Creating Word, the Word by which the World was made: <hi>In the Beginning was the Word:</hi> the Word was with God in the beginning, the Word is God, God in Christ reconciling the World unto himself, the Word of Reconci<g ref="char:EOLhyphen"/>liation, the Word of Life and Salvation, Christ, whose Name is called, <hi>the Word of God, the Wisdom of God, the Life and Light of Men:</hi> and the Life appeared, and we have seen his Glory as the Glory of the only Begotten Son of God, full of Grace and Truth: so Grace and Truth came by Jesus Christ; God hath sent the Spirit of his Son into our Hearts; he saith, <hi>He will pour forth his Spirit upon all Flesh in the last days:</hi> in the days of the New Covenant; he saith, <hi>I will make a New Covenant with the House of</hi> Israel, <hi>and the House of</hi> Judaea, <hi>and he shall be a Light to Lighten the</hi> Gen<g ref="char:EOLhyphen"/>tiles, <hi>and the Glory of his People</hi> Israel: and the voice that was heard out of the Excellent Glory, saith on this wise, <hi>This is my well Beloved Son, in whom I am well pleased, hear ye him.</hi> And <hi>Moses</hi> saith, <hi>Hear ye him in all things.</hi> Hear what the Spirit saith, what the Bride saith, what the Bride<g ref="char:EOLhyphen"/>groom saith; for he that hath the Bride is the Bridegroom, for he that hath Christ hath Life, he that hath the Son hath Life, he that hath not the Son hath not Life, he that hath not the Spirit of Christ is none of his; examine through your selves, try your selves, whether or no Christ is in you; if Christ is not in you, you are Reprobates, and in the Alienation from God, Degenerated Plants, of a stranguine Mind, not grafted into
+<pb n="6" facs="tcp:172990:4"/>Christ Jesus the <hi>True Vine:</hi> So they that live in their Sins and in their Transgressions, they do not live in Christ the <hi>Vine; for he that sinneth,</hi> saith Christ, <hi>hath not seen the Father nor me: and he that believeth n<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, is Condemned already, and the Wrath of God abideth on him, because he beli<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>veth not in the Only Begotten Son of God.</hi> And this is the World's Condemen<g ref="char:EOLhyphen"/>tion, that the True Light is come, the Light of the Glorious Gospel, which is sounded from on high, who hath brought Peace on Earth, and hath Good-will for Men; and now is the Angel flying forth, crying with a loud voice through the midst of Heaven, having the Everlasting Gospel to Preach to the Inhabitants of the Earth, to whom he saith, <hi>Fear God, give Glory to his Name, for the hour of his Judgments is come, Worship God who made Heaven and Earth, the Sea and the Fonntains of Water, Worship him who lives for ever; to whom all Worship and Honour is due for ever: But if any Man Worships and Honours the Beast, and receives his Mark in the Forehead, and the Right Hand, the same shall be tormented for ever.</hi> So as the Beast's Followers are marked with the mark of the Beast, as <hi>Cain</hi> was marked, so the Lord set a Mark upon him against that day he would take Vengeance of him: so all the Wicked are marked, and all the unre<g ref="char:EOLhyphen"/>pented that fear not God, there is a day appointed for them, wherein God will Judge them by his Son Christ Jesus, who will then come in Flames of Fire, and bring Vengeance upon all the Rebellious, who rehel against the Light of the Son, which they have in them, when their days are at an end, then into torment they do descend; therefore while it is day work, least the Night overtake thee, wherein thou canst not work; there<g ref="char:EOLhyphen"/>fore dread and fear, and have a care of spending out the whole day time, remember that twelve hours are given thee, and afterwards no more; arise, awake, and work, sleep no longer, neither let slumber lodge in thy Eyes, nor in thy Eye-lids, till thou hast found a Resting Place with the God of <hi>Jacob;</hi> consider, Eternity is after the end of Time, an endless with<g ref="char:EOLhyphen"/>out end; and to them on the left hand he will say, <hi>Take them and bind them hand and foot,</hi> when their Sins have bound them, and the Chains of their Iniquities is upon them, when they are chained to the Judgment of the Great Day, these that said, <hi>Let us kill the Heir, that the Inheritance may be ours;</hi> he will say, take these Murderers, and bind them hand and foot, these that have murdered the Just in them, and crucified to them afresh the Lord of Glory, and put him to open shame, doing despite to the Spirit of Grace, who are treading the Blood of the Covenant under foot, by which they should have been Cleansed, Sanctified, and Saved; for that end came the Lamb of God to take away the Sins of the World, and that the World through him might be Saved; he saith, <hi>I have called, but ye refused; I
+<pb n="7" facs="tcp:172990:4"/>have stretched forth my hand, and no man regarded.</hi> Wisdom cryeth aloud, she is uttering her voice in the Market-Place, saying, get into the Vineyard of the Lord of Hosts, hasten out of the Pleasures and Vanities of the World while it is the Day of Visitation; if thou wilt hear his Voice, hear with speed, and return; for, <hi>Every Plant,</hi> saith Christ, <hi>that my Heavenly Fa<g ref="char:EOLhyphen"/>ther hath not Planted, he will pluck up; and every Seed that he hath not Sown, and every Tree that bringeth not forth good Fruit he will pluck up by the Roots:</hi> the Fruitless Tree, although it be in his own Garden, and in, and under the same Profession; ye are the Trees of Righteousness, the Plant<g ref="char:EOLhyphen"/>ing of the Lord; and all that are not Trees of Righteousness, the Plant<g ref="char:EOLhyphen"/>ing of the Lord, he is coming to pluck up: <hi>I am the Vine,</hi> saith Christ, <hi>and ye are the Branches, and my Father is the Husbandman, and every Branch that groweth not in me my Heavenly Father will take away; and every Branch that groweth in me, my Heavenly Father Purgeth, that it may bring forth more Fruit; herein is my Heavenly Father glorified, if ye bring forth much Fruit;</hi> for he saith, <hi>Every Branch that groweth in me bringeth forth Fruit, it cannot do otherwise:</hi> If it grows in Christ Jesus, it bringth forth the Fruits of the Spirit, as he is a Spirit; and as they grow in him, they grow like him, translated into his Image and Likeness, bringing forth his Holy Life in them; these can say, <hi>Ʋnto us a Son is born, a Child is given, whose Name is called Wonderful, Counsellor, the Everlasting Father, the Prince of Peace, their Immanuel,</hi> God in them and with them, Inhabiting his Holy Temple, Inhabiting his Holy Mountain, where no Destroyer can come, nor whatsoever worketh Abomination, or loveth or maketh a Lye, no Adulterer, nor Fornicator, nor Whoremonger, can enter through the strait Gate of the Coelestial City; therefore many shall strive, but they shall not be able to enter through; they may enter into an Outward Pro<g ref="char:EOLhyphen"/>fession, but all that have not entred into Covenant with God, and known the Work of Regeneration, and known the transplanting out of their Cor<g ref="char:EOLhyphen"/>rupt Nature into Christ the Vine, who have not felt the Work, the Purg<g ref="char:EOLhyphen"/>ing Work, the Purifying Work, the Good Husbandman, he at Work in them, to work an Eternal Change in them, to change them from the Old Earth and the Old Heavens into the New Heavens and the New Earth, wherein dwells Righteousness; they must first know a Dying, and a Self<g ref="char:EOLhyphen"/>denying; these must follow Christ with his Cross, and take it up dayly, as it was first Preached when the Light was Preached, Christ the Light, the Way, and the Life, the dayly Cross through the Self-denying; deny the Pride and the Motions of it, the Lust and the Desires of it, bring it to the Eternal Fire, for God is coming to bring a Consumption thereon; this is the Gospel Sound, the Power of God which expels, the Gospel expels the Clouds of the Night, the Night is far spent, the Glorious Light begins
+<pb n="8" facs="tcp:172990:5"/>to shine through, and the Sun is ascending in his Glory, and the Beams of his Brightness are breaking forth; by which he will discover and make known that Work which is not his own from the Work which is his own, that his Work may honour him, that they may say, this is God of a Truth; as Christ saith, <hi>If I work the Work that no other Man could do, then helieve me for the Work's sake.</hi> So the Works of God through Christ begets Belief in the Mind, and every Eye shall see him, and every Tongue Confess him, he will yet so Work, and Glorifie his own Members who are in him that is True, these are the True Church that is in God, the Pil<g ref="char:EOLhyphen"/>lar and Ground of Truth Glorified on Earth; he will so bring them up into Divine Life and Divine Beauty, after he hath taken away all that doth defile, all the Spots and the Spoted; he will separate between Cattle and Cattle, and divide between the Clean and the Unclean; all that are his, shall be as the Sheep come up from the Washing of Regeneration, made pure and White in the Blood of the Lamb, such are come to the Blood of the Sprinkling, and to know their washed Garment, and to wear them without Spot or Stain, these were the Number that <hi>John</hi> foresaw, that stood upon Mount <hi>Sion,</hi> who were the Numberless Number cloathed in white, there was no Spot at all in them, nor Spotted; it is said, <hi>They were without Spot, they were Virgins, they follow the Lamb wheresoever he goeth;</hi> he saith, <hi>Once ye were in Darkness, but now ye are Light in the Lord; such were some of you, but now are ye Washed, and now are ye Sanctified through Obedience and Belief in the Truth: Father, Sanctifie them through<g ref="char:EOLhyphen"/>out, in Body, Soul, and Spirit:</hi> for all is the Lord's, it is the Lord's Tem<g ref="char:EOLhyphen"/>ple: <hi>Sanctifie them by thy Word, for thy Word is Truth.</hi> So the True Church is grounded upon the Pillar and Ground of Truth; the Church which is in God the Father, and of our Lord Jesus Christ; the Church which is Sanctified and Saved, and Preserved in Jesus Christ: So the Mem<g ref="char:EOLhyphen"/>bers of Christ's Body, of which he makes up the True Church, they are both Sanctified and Saved, and Preserved in Jesus Christ; so they are in him that is True, and Members of his Body, of his Invisible Body, his Glorious Body, Flesh of his Flesh and Bone of his Bone, Ingrafted into the True Vine, Children of the Father, and of his Begetting, growing in Christ Jesus the Son, the Branches of the True Vine, the true <hi>Olive</hi> Branches that fit about his Table, these are within his House, they do always behold his Glory, that which the <hi>Vulter's</hi> Eye doth not see, nor the Venemous Beast of Prey never entred here, but all the foul and unclean Beast are shut out: without are Dogs and Sorcerers, Whoremongers and Idolaters, with such as work Abomination; these are not Members of the Body of Christ, neither of the True Church that is in God, seeing
+<pb n="9" facs="tcp:172990:5"/>the True Church is thus signified, to be the Glorified Body of Christ, all his Members compleat in him, who is the Pillar and Ground of Truth, and the true Foundation and Rock, as Christ himself saith, <hi>On this Rock will I build my Church, and the Gates of Hell shall not prevail against it.</hi> This is the Church, the Body of Christ, which hath Living Members, eve<g ref="char:EOLhyphen"/>ry Member being in him that is True, who is the Pillar and Ground of Truth; and the Church of Christ being the Elect Body of Christ, being Elected in him before the World was; these are Called and Chosen, Faithful and True <hi>Israelites</hi> indeed, Born of the Holy Seed, Living Stones, <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lect and Precious, having Life in them from the Chief Corner-Stone; which Corner-Stone is cut out of the Mountain without hands, with<g ref="char:EOLhyphen"/>out hands, but by the Living Word of Eternal Power, by which they are hewn, fitted, and squared, Stones prepared for the Building of <hi>Sion,</hi> hewn Stones; <hi>I have hewn them by my Prophets, and squared them by the Words of my Mouth; for my Law,</hi> saith the Lord, <hi>shall go out of</hi> Sion, <hi>and my Word from Jerusalem.</hi> So it is by the Healing Word that the Nations are healed; thou sendest forth thy Word, &amp; thou healest them: So it is the healing and ingrafted Word of Life that dwelleth in them who are true Members of Christ, the In-speaking Word of Faith that speaketh in them better things than the Blood of <hi>Abel.</hi> So it is Christ, the Living Word of God, which was with God in the Beginning, and is God, who is a Spirit, Ministring in his True Church; they who are Members thereof, of the Church that is in God, that is grounded upon Truth's Foundation, they know a Spiritual Ministration, the Ministration of the Spirit; he saith, <hi>I will pour forth my Spirit in the last days upon all Flesh: I will send you the Comforter, the Spirit of Truth.</hi> And <hi>John</hi> saith, <hi>I was in the Spirit upon the Lord's Day:</hi> he saith, <hi>I heard a Voice say, Come up hither, and I will shew thee things to come; and he carried me away in the Spirit.</hi> This <hi>John</hi> was carried up into the Spirit; so must the True Church, the Spouse, the Bride, the Lamb's Wife, be caught up unto God, and into his Throne, where the Man-Child must Rule, which is the Seed of the Woman, which God will Exalt this day, and so Dignifie, and he shall bear the Sway, he shall hecome the Top-Stone, and sit on the Throne, and Reign and Rule the Kingdoms alone.</p>
+            <lg>
+               <l>We must be subject unto Light within,</l>
+               <l>Wherein is known the Cleansing from all Sin;</l>
+               <l>Subject unto Christ, the Light alone,</l>
+               <l>Unto the Lamb that sitteth on the Throne;</l>
+               <l>To the Light within at first we were direct,</l>
+               <l>The way to Life, Sin to reject:</l>
+               <pb n="10" facs="tcp:172990:6"/>
+               <l> The True Light we always must obey,</l>
+               <l>Christ the Life, the New and Living Way:</l>
+               <l>Though he be the Way, he is a Stumbling Block,</l>
+               <l>Against the Proud he is come to knock;</l>
+               <l>Against the Proud, and down they shall go;</l>
+               <l>The Lord will reject the Proud, and that they shall shortly know.</l>
+               <l>The Path of the Just is a burning, shining Light,</l>
+               <l>To all that in him trust he will give clear sight</l>
+               <l>To keep in Christ, the True and Living way,</l>
+               <l>That by clear Light they may plainly see</l>
+               <l>To escape the Wolf on every side,</l>
+               <l>And follow the Morning-Star, let it be our Guide</l>
+               <l>To bring us home unto perfect Peace,</l>
+               <l>To enjoy him alone, whose Love doth never cease;</l>
+               <l>And the Upright they do his Virtue feel,</l>
+               <l>The Oyl of Joy which always doth them heal;</l>
+               <l>Though the Serpent doth sometimes give a Sting,</l>
+               <l>The Rock doth flow that Healing Streams doth bring</l>
+               <l>To little <hi>Jacob</hi> that doth in the Vallies lye;</l>
+               <l>Arise and sing, now comes the Victory;</l>
+               <l>The Day is dawned, and Nations shall be born;</l>
+               <l>He Reigns on high, he laughs Enemies to scorn;</l>
+               <l>The <hi>Meek</hi> shall rejoyce, the <hi>Proud</hi> shall mourn,</l>
+               <l>For he is come that the World upside down will turn:</l>
+               <l>In God I do believe, who gives to understand,</l>
+               <l>Refreshment we do receive from his blessed Hand;</l>
+               <l>He is the God of <hi>Abraham</hi> most Just and True,</l>
+               <l>And every day with Refreshment he doth us renew,</l>
+               <l>And we do feel the Vertue of the Vine,</l>
+               <l>He doth us fill with the newest Wine;</l>
+               <l>So that we High Praises must always sing,</l>
+               <l>Sing high Praises unto our King,</l>
+               <l>Who hath brought us to this pleasant Spring:</l>
+               <l>We are come to see, as <hi>Abraham,</hi> the blessed day,</l>
+               <l>We cannot but shout and sing for Joy,</l>
+               <l>With Harmony, as in the time of Spring</l>
+               <l>We hear the <hi>Turtle</hi> in our blessed Land;</l>
+               <l>Who gives us to see, and things to understand;</l>
+               <l>And the little Book he doth unseal;</l>
+               <l>In the Deep we look Secrets he doth reveal;</l>
+               <pb n="11" facs="tcp:172990:6"/>
+               <l> And when into the Deep we do go down,</l>
+               <l>Secrets he doth reveal, and things profound,</l>
+               <l>Beyond the Learning and Wisdom of the Worldly Wise;</l>
+               <l>These things to find they never could devise;</l>
+               <l>On the God of <hi>Jacob</hi> we never watch nor wait in vain;</l>
+               <l>Our Diligence is become our greatest Gain;</l>
+               <l>When we always pray and watch at home,</l>
+               <l>We have the greatest Joy from Gods Holy Throne;</l>
+               <l>The true Seekers never seek God's Face in vain;</l>
+               <l>Right Godliness becomes their greatest Gain:</l>
+               <l>And there to rest with their great Content,</l>
+               <l>Mercies and Blessings to them he always sent;</l>
+               <l>God who is Just, Faithful, and True,</l>
+               <l>With Spiritual Blessings did them every day renew;</l>
+               <l>He caused sweet Showers on them to fall;</l>
+               <l>Yea, pleasant Showers he waters his Plants withal:</l>
+               <l>Yea, with Angels Food he rained about their Tent,</l>
+               <l>Yea, with many Blessings which God always sent:</l>
+               <l>Thus he always visited the Poor and Low,</l>
+               <l>As <hi>Lillies</hi> in the Vallies, that they may always grow;</l>
+               <l>As the <hi>Rose</hi> in <hi>Sharon,</hi> that they may give a pleasant smell,</l>
+               <l>God his Holy Showers on them doth always distill;</l>
+               <l>Yea, his Former and his Latter Rain;</l>
+               <l>The Good Husbandman hath taken Care and Pains</l>
+               <l>In his Vineyard, to make it clean,</l>
+               <l>That Ripe Fruit may be by the Nations seen;</l>
+               <l>That the Beauty of the True Church may also shine,</l>
+               <l>That they may see she is Born of Christ the Holy Vine;</l>
+               <l>She is <hi>Jerusalem</hi> from above, she is our Mother;</l>
+               <l>Over which Reigneth Christ, who is our Elder Brother.</l>
+            </lg>
+            <lg>
+               <l>We are God's Husbandry, we are God's Building here;</l>
+               <l>We are God's Workmanship, we must so appear:</l>
+               <l>Though wise men do their Eyes and others blind,</l>
+               <l>God's Work must appear, and shortly it shall shine;</l>
+               <l>The Day draws near, and it is at hand,</l>
+               <l>God will so appear, none shall him withstand;</l>
+               <l>Though many strive his Work to put down,</l>
+               <l>He will arise, his own Seed he will Crown;</l>
+               <l>And the True Church shall so appear,</l>
+               <l>That by his Blood he hath Purchased dear.</l>
+               <pb n="12" facs="tcp:172990:7"/>
+               <l> And in his Glory she shall shine most clear,</l>
+               <l>That her Beauty Nations may behold,</l>
+               <l>As true Prophets have said in the days of old;</l>
+               <l>It must also be brought to pass,</l>
+               <l>The True Church she shall shine at last;</l>
+               <l>She shall be known, and differ from all other,</l>
+               <l>Where Christ sits on his Throne, and is our Elder Brother;</l>
+               <l>But in the New <hi>Jerusalem</hi> he is clear Christal Light,</l>
+               <l>Where is no need of <hi>Sun</hi> nor <hi>Stars,</hi> but he doth shine most bright;</l>
+               <l>Her Streets are paved with pure Gold,</l>
+               <l>As Prophets and Saints have foretold,</l>
+               <l>Bearing Witness to that which they have seen;</l>
+               <l>Such is the Church of Christ when she is washed clean:</l>
+               <l>So she is seen to be the true Bride,</l>
+               <l>The Lamb hath her, he is her Guide;</l>
+               <l>Who is the Light and the true way,</l>
+               <l>Who gives true Light, and leads to the perfect Day;</l>
+               <l>He leads unto Eternal Rest,</l>
+               <l>He nourishes her, she leans upon his Breast;</l>
+               <l>Out of which flows sweet <hi>Milk</hi> and <hi>Consolation,</hi>
+               </l>
+               <l>Such run the Race, and rest in God's Salvation;</l>
+               <l>In Peace and Joy they do at last lie down,</l>
+               <l>Where Angels sing his Praises of Renown:</l>
+               <l>Thus is <hi>Jerusalem</hi> filled with Joy,</l>
+               <l>Where no trouble can their Peace annoy:</l>
+               <l>Thus are the Gates of <hi>Sion</hi> filled with Love,</l>
+               <l>There is no trouble that can it remove,</l>
+               <l>The Rock and Fountain in them do flow;</l>
+               <l>God dwels in <hi>Sion,</hi> let all the Upright know;</l>
+               <l>He keeps her whō is Faithful and True,</l>
+               <l>With strength he doth her every day renew;</l>
+               <l>He is present strength when they do need,</l>
+               <l>With hidden <hi>Manna</hi> he feeds his holy Seed;</l>
+               <l>He doth feed them with Angel's Food;</l>
+               <l>But no Stranger can in these things intrude:</l>
+               <l>But the Book is Sealed with seven Seals,</l>
+               <l>But to the <hi>Mourners</hi> he these things reveals,</l>
+               <l>Hidden things to them are made known,</l>
+               <l>The Trumpet sounds from God's holy Throne,</l>
+               <l>The <hi>Lyon</hi> of the Tribe of <hi>Judah</hi> hath uttered his Voice</l>
+               <l>From his holy Throne, which makes us sing and rejoyce,</l>
+               <pb n="13" facs="tcp:172990:7"/>
+               <l> Hallelujah unto hlm alone who Inhabits Eternity, and whose Dwel<g ref="char:EOLhyphen"/>ling is in the Light;</l>
+               <l>Who Reigns in his Majesty, and he doth shine most bright,</l>
+               <l>Who sills us with perfect pure Love,</l>
+               <l>He who compleats us in the Innocency of the Dove;</l>
+               <l>So that our Innocency at last must shine,</l>
+               <l>That all may see we are in Christ the Vine;</l>
+               <l>That Christ our Life shall so appear,</l>
+               <l>And in his Glory he shall shine most clear,</l>
+               <l>And shall make all to confess and fear;</l>
+               <l>For Christ the Fathers Love, greater was never known</l>
+               <l>Than that which God the Father revealeth to his own;</l>
+               <l>So that Revelation our Eye doth now behold,</l>
+               <l>As the Good Apostles have at large forerold,</l>
+               <l>This same our Eyes do come to behold:</l>
+               <l>Christ the Great Light, the Leader on the way,</l>
+               <l>The Light of Life which our Eyes now see;</l>
+               <l>Who openeth the Eyes of they that are so blind,</l>
+               <l>That they may come to see Christ the Holy Vine,</l>
+               <l>And on him lay their sure Foundation,</l>
+               <l>Who is the Rock of Life, and God's Salvation;</l>
+               <l>Who came to Seek, and Fallen Man to Save,</l>
+               <l>To raise the Dead, and he such Power have;</l>
+               <l>For all Power unto the Son is given,</l>
+               <l>Who is come to open the Windows that are in Heaven;</l>
+               <l>He is the Key that opens the Door,</l>
+               <l>He is the Way, praise him for evermore:</l>
+               <l>He is the Spiritual Rock of our Age,</l>
+               <l>He is the Stumbling-Block, the Wicked at him Rage;</l>
+               <l>He is the little Stone that must prevail,</l>
+               <l>He'll work alone, cast down the Dragon's Tail,</l>
+               <l>The Dragon and his Power he will cast down,</l>
+               <l>The Saints in their strong Towers shall sing Praises of Renown;</l>
+               <l>They shall see, and little is behind,</l>
+               <l>They shall get the Victory that are in Christ the Vine;</l>
+               <l>And they that see, to them it shall appear,</l>
+               <l>That Deliverance to the Innocent doth draw near;</l>
+               <l>Redemption draweth nigh, it is near at hand,</l>
+               <l>The Innocent shall shine on high, on Mount <hi>Sion</hi> they shall stand,</l>
+               <l>Where they shall sing Hallelujah for ever more,</l>
+               <l>Triumphing over <hi>Death, Babel,</hi> and the <hi>Whore;</hi>
+               </l>
+               <pb n="14" facs="tcp:172990:8"/>
+               <l> And this day <hi>Babel</hi> must go down,</l>
+               <l>The Saints shall wear the Everlasting Crown;</l>
+               <l>They that follow the Lamb shall get the Victory,</l>
+               <l>They shall be Cloathed in white, and dwell in Humility.</l>
+            </lg>
+            <p>The Lord said unto <hi>Israel</hi> of Old, <hi>Return unto me, and I will return unto you;</hi> when they were Revolted, and Backslided, and gone from their first Love, he saith, <hi>Turn you Backsliders, and I will heal your Back<g ref="char:EOLhyphen"/>slidings, and love you freely:</hi> He said, <hi>Israel have forgotten me days without number:</hi> when they were gone back again, lusting after evil things, af<g ref="char:EOLhyphen"/>ter those things which they were forbidden either to <hi>Taste, Touch,</hi> or <hi>Handle;</hi> the Lord often called them, saying, <hi>Come out my People from a<g ref="char:EOLhyphen"/>mongst them, touch not the unclean thing, and I will receive you.</hi> It was said of <hi>Israel</hi> of Old, they were returned back to <hi>Aegypt</hi> again, they learn<g ref="char:EOLhyphen"/>ed their ways, and mixed with the Unclean their Customs, and Fashions, and Pride; as they do at this day: So the Lord was grieved, and his Righ<g ref="char:EOLhyphen"/>teous Soul burdened; as he is at this day; he said unto the Church when they were falling away, <hi>Return unto thy first Love, or else behold I come quickly, I will remove thy Candlestick:</hi> he saith, <hi>Come buy ye Salve of me, that thou mayst see.</hi> For Blindness happened unto <hi>Israel</hi> in that day: he saith unto the Church, <hi>Thou art Rich, and Full, and needest nothing; and knowest not that thou art Poor, and Miserable, and Blind, and Naked.</hi> Come, returu out of thy Pride, out of thy Loftiness, come down into low Vallies, where thou mayst meet the Lord; thou that art proud and lofty, thy Fashions and thy Pride sheweth that thou art without thy Guide; the Lord is coming this day, I give this sound, and he will turn Profession upside-down:</p>
+            <lg>
+               <l>So that the Everlasting Truth shall so appear,</l>
+               <l>And God's Work shall shine most clear;</l>
+               <l>That which the Proud do not know,</l>
+               <l>It shall appear in the Poor and Low.</l>
+            </lg>
+            <p>And the Lord made this Complaint over <hi>Israel</hi> of Old, saying on this wise, <hi>My People have committed two great Evils in forsaking me, the Foun<g ref="char:EOLhyphen"/>tain of Living Waters.</hi> They have hewn themselves broken Sisterns, that would not hold the Water of Life, neither the Wine of the Kingdom, which is New and Living; but New Wine cannot be put into the Old Vessel, nor the Old Bottle, but the Vessel must be made New before it can hold the New Wine: then such come to say, Such is the Heavenly
+<pb n="15" facs="tcp:172990:8"/>Treasure we have in our Earthen Vessels, who are Sanctified throughout in Body, Soul, and Spirit; such offer up their Bodies a Living Sacrifice, holy and acceptable to God, who feel their acceptance with him, and their unity standing in his Covenant, which Covenant is sure; such do not build again that which they once threw down, nor, are not taking Liber<g ref="char:EOLhyphen"/>ty in evil things; blessed are they who walk in the way undefiled, in the Path of Peace and Pleasantness; these meet with their Souls Beloved, he is their Delight, their Joy and Salvation; such shall rejoyce, and sing high Praises and Everlasting Hallelujahs amongst the Blessed who are entred in<g ref="char:EOLhyphen"/>to their Rest, who are praising the Lord God and the Lamb for evermore, <hi>Amen, Hallelujah.</hi>
+            </p>
+            <p>
+               <hi>LIGHT is Sown for the Righteous, and JOY and GLAD<g ref="char:EOLhyphen"/>NESS for the Ʋprlght.</hi>
+            </p>
+            <p>And Christ saith, <hi>While ye have the Light, believe in the Light, that ye may become the Children of the Light, and of the Day of God;</hi> for he saith, <hi>Walk in the Day, walk in the Light, for the Light is Day.</hi> Neither in Eating nor Drinking, nor Chambering, nor Wantonness, for these are Works and Fruits of Darkness; but as those who in the Day-time walk; <hi>While ye have the Light, walk in the Light:</hi> Such see how they go, and whether they go, such go with their Faces <hi>Sion</hi>-ward, such come to shine like Stars in the Firmament of God's Power. But the Children of the Night, who walk in Darkness, they do not see how they go on; therefore they stumble at the Stumbling-Stone which is laid in <hi>Sion,</hi> a Stone of Stumbling, and a Rock of Offence for the Rising and Falling of many in <hi>Israel,</hi> but a sure Refuge and safe Foundation, an Eternal Rock for all that are built thereon, a never-failing Fountain, a Joyful Dwelling have they that rest therein; therefore let all the Inhabitants of the Rock sing, and all the Inhabitants of <hi>Jerusalem</hi> shout for Joy, for to them is coming a bright and glorious day.</p>
+            <p>The blessed day is come, the day whch <hi>Abraham</hi> saw and rejoyced; <hi>Abraham</hi> saw Christ's day, and rejoyced and was glad; so this is Christ's day, which <hi>Abraham</hi> foresaw; and all <hi>Abraham</hi>'s Children and true Seed, they do see, and walk in the same shining day, <hi>Shiloh</hi>'s shining day is come in them; the Nation of them that are Saved, they do walk in the Light of the Glorious Gospel, and these are Gospel Days unto them that see Christ coming, and Reign in them; they are Children of the Light who walk in the Light, as he is in the Light; such know the true Fellowship with God the Father, and the Son Jesus Christ, the Begotten of God, who
+<pb n="16" facs="tcp:172990:9"/>is full of Grace and Truth, who was given for a Covenant of Light unto the <hi>Gentiles,</hi> and for Salvation to the Ends of the Earth. So no man can know the Father but by him who is the Light, who enlightens the Eyes of them that have been blind, that they may see the way to Life, and walk therein; the <hi>Just Man's Path, which is a Burning and Shining Light, shin<g ref="char:EOLhyphen"/>eth more and more until the Perfect Day.</hi> So this will be the Condemnati<g ref="char:EOLhyphen"/>on of the World, who are in their Generation wiser than the Children of Light, they are wise to do Evil: So the World by Wisdom never knew or found out God, but he is made known, and reveals himself unto the Children of Light, such as become Fools for Christ's sake; so the foolish things of the World God hath raised to confound the Wise and the Migh<g ref="char:EOLhyphen"/>ty, and by the Foolishness of Preaching. So the Cross of Christ is Foolish<g ref="char:EOLhyphen"/>ness to the Wisdom of this World; but it is the great Power of God to all them that believe they are Saved thereby, they know a Cross, and a dayly Self-denying Life, the Life of Jesus; these bear about them the Mark and Dying of our Lord Jesus Christ, these have part in his Death, Suffering, and in his Resurrection; so they know a Dying with him, and a Rising with him; such have part in the first Resurrection, on whom the second Death shall have no power: such can say, <hi>To Live, is Christ; and to dye, is Gain.</hi> So they can say, The Lord Reigneth, and the Earth re<g ref="char:EOLhyphen"/>joyceth, and the true Sabbath of Rest is come, and the Lord of the Sab<g ref="char:EOLhyphen"/>both they feel to Reign in them. So they can say, The Lord Reigneth a King for ever, and a High Priest for ever, made higher than the Heavens, made not by the Order of Man, but by the Order of <hi>Melchisedeck,</hi> an Everlasting High Priest, and such a High Priest becometh us, a great and wonderful Prophet, whose Priesthood is never to be removed, the Mi<g ref="char:EOLhyphen"/>nister of the <hi>Sanctuary,</hi> and of the <hi>True Tabernacle,</hi> which God hath Pitched, and not Man. So Christ, the Everlasting High Priest, who was made higher than the Heavens, made not by a Carnal Commandment, but by the power of an Endless Life; he is the High Priest of God, whom all are to hear and obey; and <hi>Moses</hi> saith, <hi>Hear ye him: He mak<g ref="char:EOLhyphen"/>eth his Angels Chariots, and his Ministers as a Flame of Fire:</hi> He send<g ref="char:EOLhyphen"/>eth forth Angels as Ministring Spirits, ministring to all that shall be Heirs of Salvation; ministring that Gospel which they have received from God, and not by the Precepts which they have from the Order of Man, or Men; for Christ saith, <hi>Freely ye have received, freely give; and what I have shown you in secret, that declare ye on the House-Top:</hi> He bid them Salute no Man by the way, but declare what the Spirit of Christ signified in them, they being sent of God, and not of Man; so all must be gathered to the Son of God, and to hear him in themselves, and to cease from Man; for all Man's Gathering and Working, Willing and
+<pb n="16" facs="tcp:172990:9"/>Running; God is coming to cast down, and to lay all Flesh low before him, for he alone must sit on the Throne, and every one must feel him in themselves, Christ revealed in them, and have their hope in him, and have their Taste and Feeling and Handling of the good Word of Life establish't in them; it will not be what another shall say or do will stand any one in steed; in vain is Salvation expected from Hills or Mountains, but from God alone; we have often heard, that we must cease from Man, and from man's Workings, and come unto God, and feel him work his mighty Work, his Work of Wonders in us, then we shall see him eye to eye to be the Wonderful Counsellor indeed, the Prince of our everlasting Peace, the King of Eternal Glory, who is shining in his Beauty this day in <hi>Si<g ref="char:EOLhyphen"/>on,</hi> the beautiful City; the Perfection of Beauty, shall men call her, when they shall see the King in his Beauty, the desire of all Nations shall be unto him; and blessed is the Eye that doth see him, and the Ear that hears him; yea, blessed are all they that hear the Word of God and keep it; have they not all heard, yea verily, his Sound is gone into all Lands, his Word to the Ends of the Earth: but all have not obeyed it; but blessed are the Obedient, they are fed with Heavenly Food, they do feel the Bles<g ref="char:EOLhyphen"/>sings of <hi>Jacob,</hi> and the heavenly sweet showers to rest upon their Branch all Night, till the blessed <hi>Morning</hi> breaks forth with its Coelestial Light: These True Travellers come to escape Death and Death's Sting, and over all their Enemies evermore they shall Hallelujah's sing; therefore let the Upright be still, and know the Everlasting Day draws nigh, a day of Triumph and of Victory, a day which shall shine so clear, when man, as Fallen, they shall so appear; therefore blessed are all they that hun<g ref="char:EOLhyphen"/>ger and thirst after Righteousness, they shall be filled; all the People of the Lord shall be taught of the Lord, and in Righteousness they shall be Establish't, they shall be far from Oppression; but wo to the Proud and Oppressours of the Seed of God, the Day of the Lord is coming upon them, such a Day as they look not for: Wo to the great City of Abo<g ref="char:EOLhyphen"/>mination, her Pride shall bring her Desolation; but the Lord hath re<g ref="char:EOLhyphen"/>gard to the Cries of the Oppressed, and for the Cries and Sighing of the Needy; he will arise and do such a Work, his own Arm shall bring it to pass; he will chain the Rebellious to the Judgment of the Great Day, none of the Wicked shall escape it, nor the Vengeance written, which shall be Just upon them: Wo unto the Proud in the great City, a heavy Day is coming upon them, and shall suddenly overtake them, as Sorrow and Pain doth overtake a Woman in Travail, and she cannot escape, greater Plagues are near than them that are before past: so one Wo was passed away, and another cometh; behold the Day of the Lord cometh, and none shall escape it.</p>
+            <lg>
+               <pb n="18" facs="tcp:172990:10"/>
+               <l>
+                  <hi>Repent therefore, and turn from your Pride,</hi>
+               </l>
+               <l>
+                  <hi>Otherwise the Day of the Lord you will not abide,</hi>
+               </l>
+               <l>
+                  <hi>For the Lord of Hosts is coming, who is Faithful and True,</hi>
+               </l>
+               <l>
+                  <hi>He will refine</hi> Israel, <hi>he will have them in his view;</hi>
+               </l>
+               <l>
+                  <hi>Wo unto</hi> London, <hi>I say, wo unto</hi> London <hi>indeed,</hi>
+               </l>
+               <l>
+                  <hi>For you the Proud, have opprest the Holy Seed,</hi>
+               </l>
+               <l>
+                  <hi>Therefore with Judgment God will you feed:</hi>
+               </l>
+               <l>
+                  <hi>Therefore I say, Repent, and Return before,</hi>
+               </l>
+               <l>
+                  <hi>Or else greater Plagues will meet you at your Door;</hi>
+               </l>
+               <l>
+                  <hi>Therefore Repent, unto the Lord Return,</hi>
+               </l>
+               <l>
+                  <hi>Over your Sins lament, yea, weep and Mourn,</hi>
+               </l>
+               <l>
+                  <hi>For Weeping, and Howling, and Mourning is at your Door,</hi>
+               </l>
+               <l>
+                  <hi>For such a Flood is coming that never was before:</hi>
+               </l>
+               <l>
+                  <hi>Therefore Wo to</hi> London, <hi>thy Pride shall down,</hi>
+               </l>
+               <l>
+                  <hi>For as Gods dreadful Warning I give this Laram and Sound,</hi>
+               </l>
+               <l>
+                  <hi>For the Great God is coming with thee to plead,</hi>
+               </l>
+               <l>
+                  <hi>For the Oppression of his holy Seed;</hi>
+               </l>
+               <l>
+                  <hi>Though thou hast opprest it, in peeps do lye,</hi>
+               </l>
+               <l>
+                  <hi>God's Ear is open to hear the loudness of its Cry,</hi>
+               </l>
+               <l>
+                  <hi>Which Cry has ascended into his Ears alone,</hi>
+               </l>
+               <l>
+                  <hi>He will let Vengence fly from his Holy Throne:</hi>
+               </l>
+               <l>
+                  <hi>Wo unto thy Pride, thou dost in it abound;</hi>
+               </l>
+               <l>
+                  <hi>Thou hast lost thy Guide, God will thee confound;</hi>
+               </l>
+               <l>
+                  <hi>God Almighty, he with thee will plead,</hi>
+               </l>
+               <l>
+                  <hi>Who hath heard the Crys of his holy Seed;</hi>
+               </l>
+               <l>
+                  <hi>He is coming down, way he will make,</hi>
+               </l>
+               <l>
+                  <hi>His Seed he will deliver for his own Name sake.</hi>
+               </l>
+               <l>
+                  <hi>Second Wo unto</hi> London, <hi>for I always hear this Cry,</hi>
+               </l>
+               <l>
+                  <hi>Wo unto thy Pride and thy Iniquity,</hi>
+               </l>
+               <l>
+                  <hi>God against thee will let his Arrows fly.</hi>
+               </l>
+               <l>
+                  <hi>God again will visit thee,</hi>
+               </l>
+               <l>
+                  <hi>And sweep thy Streets once more;</hi>
+               </l>
+               <l>
+                  <hi>He will bring greater Plagues on thee</hi>
+               </l>
+               <l>
+                  <hi>Than ever was before.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>This is a Warning to Professors and Prophane,</hi>
+               </l>
+               <l>
+                  <hi>God will plead with you yet once again;</hi>
+               </l>
+               <l>
+                  <hi>And for one Transgression, and for two, and for three,</hi>
+               </l>
+               <l>
+                  <hi>He will again visit thee for thy Pride and Hypocrisy,</hi>
+               </l>
+               <l>
+                  <hi>He will cut down the Fruitless</hi> Fig-Tree.</l>
+            </lg>
+            <pb n="19" facs="tcp:172990:10"/>
+            <p> Plow up your Fallow-Ground in your Hearts, sow no longer among Thorns; for the Day of the Lord is coming, and the Lord of the Harvest is coming, and he will reap down the <hi>Tares,</hi> and he will take them from amongst the <hi>Wheat,</hi> and bind them in bundles, according to the Prophe<g ref="char:EOLhyphen"/>sie of old, and cast them into unquenchable Fire; for the Day of the Lord is come, that great Day, that Notable Day, who are they that shall abide; then Wo cometh upon the Proud, upon the Lofty; yea, <hi>Many shall cry to the Hills and to the Mountains, fall on us, for the Wrath of the Lamb is come:</hi> And he will pursue the Disobedient unto utter Destruct<g ref="char:EOLhyphen"/>on; but say unto the Just, <hi>It shall go well with them:</hi> They that have mourned shall rejoyce, and their Joy shall be full; blessed are they that Sow in Tears, they shall reap in Joy; they that go on their way weeping, sowing their precious Seed, these shall reap their Harvest with Joy, and return with their Sheaves in their Bosoms; these shall be those of whom he saith, <hi>I will make up my Jewels</hi> (or bind up my Jewels) <hi>I will spare them in that Day as a Man spareth his only Son that Serveth him.</hi> When the Lord sendeth forth his Destroying Angel, with a Commission to destroy, he saith, <hi>Spare every green thing, and every green Tree.</hi> Ye are the Trees of Righteousness, the Planting of the Lord; so they shall be as a green <hi>Bay-Tree,</hi> or a green <hi>Olive-Branch</hi> before the Lord, as a Tree grow<g ref="char:EOLhyphen"/>ing by the Rivers of Water, whose Leaf shall never wither, but always prosper; therefore he saith, <hi>Mark the Post of the Door of the House of them that Mourn for the Abomination of the Time, there the Destroying An<g ref="char:EOLhyphen"/>gel shall not enter:</hi> Say unto them that hear the Lord, and tremble at his Word, <hi>It shall go well with them who know a hiding in the Ark until the In<g ref="char:EOLhyphen"/>dignation of the Lord be over: Therefore as I say unto one,</hi> saith Christ, <hi>I say unto all, Watch lest ye enter into Temptation.</hi> He saith, <hi>Watch and Pray always.</hi> So when Christ went up into the <hi>Mountain</hi> to Pray, he called his Desciples unto him up into the <hi>Mountain</hi> of Prayer, there he saith un<g ref="char:EOLhyphen"/>to them, <hi>Blessed are the Poor in Spirit, for their's is the Kingdom of God.</hi> And it is the Poor that receive the Gospel: he saith, <hi>The Poor ye shall have always, and to them is the Everlasting Gospel to be Preached unto every Creature under Heaven.</hi> And every Creature that receiveth this Ever<g ref="char:EOLhyphen"/>lasting Gospel, shall become a Preacher of the same Gospel, a Preacher of Righteousness, though not in Words or Sound, as <hi>Noah</hi> preached that entred the Ark; it is not words nor sound, and live quite contrary to it, in the practice of a Holy Life, of a Saint-like Life, Redeemed from the Flesh, and Pride, and Lust thereof; but such as preach the Gospel, must live the Gospel-Life, then they are in him that is True, they shew forth his Dying, his Life and Resurrection, they being renewed into that new, holy Life, and translated into that Spirit of Jesus which <hi>John</hi> was
+<pb n="9" facs="tcp:172990:11"/>in upon the Lords Day; now the Lord's Day is come, the Everlasting Sabboth of Holiness, wherein the Saints rest from their own Labour, and their Workings, and their own Thoughts; yea, the Stranger comes to rest within their Gates, they come to do nothing from self, nor self<g ref="char:EOLhyphen"/>actings, but waiting for the Worker; <hi>Behold I work, and my Father work<g ref="char:EOLhyphen"/>eth.</hi> So all Works besides Christ's and the Father's Work he will short<g ref="char:EOLhyphen"/>ly put an end unto, unto all such as say, <hi>The Lord Liveth;</hi> and they know not the Life of the Lord to live in them; the Lord is opening the Eyes of the Wise, they shall see beyond their Teachers, and make them wiser than their Teachers. So they shall come to try all Spirits, and have the Touch-stone in them, the little smooth Stone, taken out of <hi>Shiloh's</hi> Brooks, and blessed are they that know this little Stone, this trying and tryed Stone; he hath been trying many, and tryed by many; so he tryeth all things, and searcheth all things, and cannot be deceived by any; all such as have him, have the Taste and Power of Life, and they feel that Oyl of Joy in themselves that gives them the sweet taste of the same; here is their Joy in that feeling and stirring of that precious life which is be<g ref="char:EOLhyphen"/>yond words; so in that sweet breathing and breath of Life, which cometh immediate from the Holy Ghost, and its ascending and sounding, it truly refresheth, it is the true Salvation; as between <hi>Mary</hi> and <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> which caused the Immortal Birth to spring for Joy; the Spiritual-minded feel this when the Windows of Heaven are opened, and such a Blessing is poured forth as the Earth is not able to contain; they that are born of the Spirit feel and know this, and they that are not born of the same Spirit, know not, though under the same Form and Profes<g ref="char:EOLhyphen"/>sion; for the Wind bloweth whether it listeth, and the natural man knoweth not from whence it cometh, nor whether it goeth; were not <hi>Esau</hi> and <hi>Jacob</hi> two Brethren, both come from one Birth; is there not <hi>Spiri<g ref="char:EOLhyphen"/>tual Israel</hi> and <hi>Fleshly Israel,</hi> the Seed of <hi>Abraham</hi> after the Flesh, and the Seed of <hi>Abraham</hi> after the Spirit? Is it not so at this day under the Form and Profession of Worshipping God after the Spirit? Which is no less than Perfection in Profession; which in the Beginning did appear more like than now. Alas! with Lamentation, how, and whereunto is Profession fallen! How are the mountains of Pride exalted! The Lord is coming to work such a Work as he hath not yet done; he is coming to silence all Flesh, and every Tongue and Spirit that saith, <hi>The Lord Liveth, and the Lord Speaketh;</hi> and yet they know him not to speak by them immediate; for he saith, on whom ye shall see the <hi>Spirit</hi> descend<g ref="char:EOLhyphen"/>ing like a <hi>Dove,</hi> this same is the <hi>Son of Man;</hi> and he speakeah from Heaven: It is said, the Holy Ghost fell upon them, and it abode with them, and they spake with new Tongues, with Cloven Tongue, their
+<pb n="13" facs="tcp:172990:11"/>Tongues and Hearts being cloven to God; so they were cloven unto God with full purpose of Heart, their Tongues being set on fire with a Coal from his Altar, with the Word of the Lord, that is a Fire, and burn<g ref="char:EOLhyphen"/>eth as a Flame until it is uttered forth; so it is <hi>Jacob</hi> becometh a Flame, and the House of <hi>Esau</hi> shall be as Stubble; and all that run before the Word of the Lord, or the Descendings of the Holy Ghost, and the In<g ref="char:EOLhyphen"/>speakings of the Holy Spirit in them, and moving and stirring them there<g ref="char:EOLhyphen"/>unto, the Angel descending and moving the Waters of <hi>Shiloh</hi> to spring forth, the Waters of the pure River, which is as clear as Christal, pro<g ref="char:EOLhyphen"/>ceeding out of the Throne of God; which River runs through the streets of the <hi>new Jerusalem;</hi> all that minister of this River, of this Eter<g ref="char:EOLhyphen"/>nal Fountain, which proceedeth from the Throne of God and the Lamb; so they come to do the Will of him that sent them; these come to speak as the Spirit gave them utterance, and by the Inspiration of the Almighty, first being certain of the Will and Counsel of God to them, and what the Lord first speaketh unto them, not knowing before what to say; therefore he saith, <hi>Go ye forth and Preach the Gospel, and when ye shall be called before Rulers for my Name-Sake, premeditate not what to say, but it shall be given you in the self-same hour what to say.</hi> Such is the great Wisdom of God, he will have none to add to his Work, nor to his Words, but as the Holy Ghost gave them utterance, so they were to minister, and of the Ability that God gave them from the Prophesie of the Book of Life, which they were come to read in within them; so every one must come to read within them, and to feell the Kingdom of God come in them, and the Will of God done in them in Earth as it is in Heaven; such speak as God will have them speak without diminishing or adding thereto; here is Christ Jesus the Lord speaking in his Temple; it is written, <hi>Your Bodies are the Temples of the Holy Ghost:</hi> So they become a Holy Temple unto God, a holy Building, a Spiritual House, not made with hands; God is not worshipped in Temples made with hands, but a Spiritual Building, a Spiritual House he is raising, the <hi>New Jerusalem</hi> come down from Heaven; behold the Tabernacle of God is with Men; this is the New Creation and Heavenly Generation which God is calling, saying, <hi>Come up hither, come up to the Mountain of the Lord's House,</hi> which shall be Esta<g ref="char:EOLhyphen"/>blished on the tops of the Mountains, it shall be called the <hi>Mountain of Holiness,</hi> whereunto all the Ransomed shall be gathered, and the Redeem<g ref="char:EOLhyphen"/>ed shall arrive there in the Fulness of Joy, at the Haven of Rest and Peace, where none shall make them afraid, where the Wicked shall cease to trouble them any more; glorious things are spoken of the City of God, and all the Upright in Heart, who are truely Worshipping God in the Spirit, they are the Fellow-Citizens in this <hi>New Jerusalem,</hi> they are as
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:172990:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:172990:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:172990:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:172990:13"/>
+               <pb n="22" facs="tcp:172990:14"/>a City set upon a Hill, that shall shine for ever, I mean the Faithful, who hold fast their Faith unto the End, and keep their Garments unsported with the Flesh, they shall be Crowned with Victory and Dominion; they who have passed through Death, shall wear the Crown of Eternal Life, which is prepared for all who love the Appearance and Coming of our Lord Jesus Christ; to whom be all Glory, all Honour and Hallelu<g ref="char:EOLhyphen"/>jahs for evermore.</p>
+         </div>
+         <div type="letter">
+            <head>A Letter to a FRIEND.</head>
+            <p>THere is no Man can call Jesus <hi>Lord</hi> but by the Holy Spirit: and if the same Spirit dwells in you that raised up Jesus from the Dead, it shall quicken your Mortal Flesh; so where Christ is known to be the Lord in their Spirit, by his Spiritual Government and Reign in them, the Quickening, Spirit, the Lord from Heaven, he is known in all his Offices, as Chief Cap<g ref="char:EOLhyphen"/>tain, Leader and Commander, a Sufficient King and Governour, who is to sit on his Throne in his Kingdom, and Reign there, and Rule in the Conscience, and have Command over it: so there is no Commander over his Works besides himself, seeing he saith, <hi>Ye are my Disciples if ye do all whatsoever I command you.</hi> He being the Spiritual Commander, who is God of the Spirits of all Flesh; who saith unto one, <hi>Go,</hi> and he goeth; and to another, <hi>Come,</hi> and he cometh; who hath the Command over Angels and Spi<g ref="char:EOLhyphen"/>rits, unto whose Power Spirits are to be Subject, unto whose Spirit there is no Limit nor Tie, nor Command over it; neither for any Man to command the Conscience to be them from Speak<g ref="char:EOLhyphen"/>ing, Prophesying, or Praying, seeing God hath set no Limiter over the Conscience of any, either to speak, or to be silent; for who hath Formed the Mouth? Who <gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th Created the Tongue? Who hath breathed upon the Spirit the Breath of Life, and made it a Living Soul? Who ha<gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap> searched the Heart, and gone through the depths thereof. Who shall silence the Tongue from singing forth high Praises? Oh! come hither, and I will
+<pb n="23" facs="tcp:172990:14"/>tell you a little of the wonderful Works of the Lord, and what he hath done for my Soul; I shall not cease, but sound a Trumpet more and more, as it shall be required of me; and when to keep silence, and when to speak, he is sufficient to shew me as well as he hath shewed thee; &amp; what art thou that commands another, seeing another hath command over thee, to cause thee by one means or other to keep silence. Every Eye that is open may see, for he that is the Key of <hi>David,</hi> he openeth, and no man shutteth, neither doth it lye in Man's Power; but he may Judge by the hearing of the Ear, and the seeing of the Eye; and he being so conceited of having Infallible Judgment of Judging that that is wrong, and he himself being wrong, prejudic'd and byast, he being ready, and soon sencureth wrong; this is wrong Judg<g ref="char:EOLhyphen"/>ment, to do that to another thou wouldst not have another do to thee: Christ, who is Lord over all, saith on this wise, <hi>I Judge no Man, but there is One that Judgeth all; though all Judgment is committed to the Son.</hi> And, <hi>Who art thou that Judgest another Man's Servant, seeing he must give an Account to his Great Master, to whom he must stand or Fall.</hi> So I would have every one be very weighty in such Cases, and leave eve<g ref="char:EOLhyphen"/>ry one to the Witness of God they have in them. So the Witness in me, which is Faithful and True, speaketh another thing in me than thou canst, or any else that is without. So I shall keep within my Tent, and Watch and Pray always, and always learn to do that which is Just. So I rest with my Love to all the Faithful.</p>
+            <closer>
+               <signed>Dorothy White.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
